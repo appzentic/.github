@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://appzentic.com"><img src="https://appzentic.com/logo.svg" width="72" alt="Appzentic"></a>
+  <a href="https://appzentic.com"><img src="https://raw.githubusercontent.com/appzentic/.github/master/profile/logo.svg" width="72" alt="Appzentic"></a>
 </p>
 
 <h1 align="center">Appzentic</h1>
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.appzentic.com/home/images/tutorials-1110/0-whatisappzentic-main-screen-pc-2.png" alt="The Appzentic web console: the chat on the left, with code, database and metrics panels on the right">
+  <img src="https://raw.githubusercontent.com/appzentic/.github/master/profile/console.jpg" alt="The Appzentic web console: the chat on the left, with code, database and metrics panels on the right">
 </p>
 
 ## What it does
